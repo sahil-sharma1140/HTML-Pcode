@@ -1,3 +1,24 @@
-body{
-    background-color: cornflowerblue;
+
+label{
+    color: blue !important;
+}
+#password{
+    color: darkgreen !important;
+    font-size: 30px;
+}
+#chat{
+    color: tomato !important;
+}
+#div1{
+    color: coral;
+}
+.sure{
+    color: black !important;
+
+}
+.fonttype{
+    font-size: 30px;
+}
+.bg{
+    background-color: chartreuse;
 }
